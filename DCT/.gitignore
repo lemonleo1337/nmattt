@@ -1,0 +1,12 @@
+.DS_Store
+.vs/
+*.jpg
+*.png
+!examples/*.png
+!examples/*.jpg
+!assets/*.png
+bin/
+obj/
+.vscode/
+extr_*
+*.sh
